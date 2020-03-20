@@ -20,4 +20,3 @@ const job = new CronJob('* * * * * *', function() {
 });
 logger.info('After job instantiation');
 job.start();
-
