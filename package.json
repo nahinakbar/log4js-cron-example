@@ -1,0 +1,14 @@
+{
+  "name": "log4js-example",
+  "version": "1.0.0",
+  "description": "example project with log4js",
+  "main": "index.js",
+  "repository": "https://github.com/nahinakbar/log4js-example.git",
+  "author": "Nahin Akbar <27775584+nahinakbar@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cron": "^1.8.2",
+    "log4js": "^6.1.2"
+  }
+}
